@@ -40,7 +40,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Kanini Data Added");
             l.Add("Kanini second Data Added");
             l.Add("Docker Image Added");
-            1.Add(" TechM Added");
+            l.Add(" TechM Added");
             return l;
         }
     }
